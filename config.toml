@@ -1,7 +1,13 @@
 theme = "awesome-identity"
-baseURL = "https://example.com"
-title = "Awesome Identity for Hugo"
+baseURL = "http://ysshawn.com"
+title = "Shawn Yang's Personal webpage"
 
+[params.meta]
+  description = "Currently a postgraduate student at UCLA. Have Strong passion for backend, frontend development."
+  keywords = "Shawn Yang, Shuo, Shuo Yang, ysshawn, UCLA, ECE, Full Stack, backend, engineer, frontend, developer, architect"
+  images = [
+    "/images/profile.jpg"
+  ]
 
 ## Profile Configurations
 [params.profile]
@@ -22,8 +28,13 @@ title = "Awesome Identity for Hugo"
 [params.contacts]
 github = "Shawn19960502"
 email = "yangshuo960502@gmail.com"
-[params.actions]
-hello="hello"
+
+[[params.actions]]
+  name = "Review My Resume"
+  url = "http://www.baidu.com"
+[[params.actions]]
+  name = "Project1_S.Y.Mall"
+  url = "http://mall.ysshawn.com"
 [params.footer]
   copyright = "© 2019 Shawn Yang. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
   poweredBy = true
