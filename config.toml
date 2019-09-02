@@ -31,9 +31,9 @@ email = "yangshuo960502@gmail.com"
 
 [[params.actions]]
   name = "Review My Resume"
-  url = "http://www.baidu.com"
+  url = "http://mall.ysshawn.com/public/resume.pdf"
 [[params.actions]]
-  name = "Project1_S.Y.Mall"
+  name = "Project_S.Y.Mall"
   url = "http://mall.ysshawn.com"
 [params.footer]
   copyright = "© 2019 Shawn Yang. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
