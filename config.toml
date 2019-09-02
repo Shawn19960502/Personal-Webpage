@@ -31,7 +31,7 @@ email = "yangshuo960502@gmail.com"
 
 [[params.actions]]
   name = "Review My Resume"
-  url = "http://mall.ysshawn.com/public/resume.pdf"
+  url = "http://ysshawn.com/public/resume.pdf"
 [[params.actions]]
   name = "Project_S.Y.Mall"
   url = "http://mall.ysshawn.com"
