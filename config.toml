@@ -1,9 +1,9 @@
 theme = "awesome-identity"
-baseURL = "http://ysshawn.com"
+##//baseURL = "http://ysshawn.com"
 title = "Shawn Yang's Personal webpage"
 
 [params.meta]
-  description = "Currently a postgraduate student at UCLA. Have Strong passion for backend, frontend development."
+  description = "Currently a postgraduate student at UCLA. Have Strong passion for backend development && Machine Learning."
   keywords = "Shawn Yang, Shuo, Shuo Yang, ysshawn, UCLA, ECE, Full Stack, backend, engineer, frontend, developer, architect"
   images = [
     "/images/profile.jpg"
@@ -14,11 +14,13 @@ title = "Shawn Yang's Personal webpage"
   portrait = "/images/profile.jpg"
   firstname = "Shawn"
   lastname = "Yang"
-  title = "Full-Stack Engineer"
+  title = "Software Engineer"
   bio = """
   Hi, there, glad to see you on my webpage. I'm currently a postgraduate student at **UCLA** majoring in Electrical and Computer Engineering.
 
   I have one year full time professional experience at Huawei technology company specifying backend development for which I have a strong passion. 
+  
+  Currently, I'm working at **Adobe** Corporated based in San Jose as an SDE summer intern(2020). 
 
   Aside from that, I'm so fascinated by the artifical intelligence stuff, the role of which in the fourth industrial revolution is same as that played by electricity in the second industrial revolution.
   
@@ -36,5 +38,5 @@ email = "yangshuo960502@gmail.com"
   name = "Project_S.Y.Mall"
   url = "http://mall.ysshawn.com"
 [params.footer]
-  copyright = "© 2019 Shawn Yang. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
+  copyright = "© 2020 Shawn Yang. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
   poweredBy = true
